@@ -4,7 +4,8 @@
 //     SFDX: Execute Anonymous Apex with Currently Selected Text
 // You can also execute the entire file by running the command:
 //     SFDX: Execute Anonymous Apex with Editor Contents
-
+// Apex Data Types
+//dataType variableName = initialValue:
 String tempVar = 'Gizmo';
 System.debug('Hello World!');
 System.debug('My name is ' + tempVar);
